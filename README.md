@@ -1,2 +1,2 @@
 # E-Learning
-Learning Management System designed in PHP and MySQL
+It is a basic Learning Management System developed in PHP and MySQL. A student can submit assignments and activities online, posted by the professor.
